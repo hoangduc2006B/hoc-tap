@@ -1,0 +1,64 @@
+[
+  {
+    "MaSo": "2010123",
+    "HoTenLot": "Nguyễn Văn",
+    "Ten": "An",
+    "GioiTinh": true,
+    "NgaySinh": "15/05/2002",
+    "Lop": "CTK44",
+    "SoCMND": "123456789",
+    "SoDT": "0912.345.678",
+    "DiaChi": "01 Phù Đổng Thiên Vương, Đà Lạt",
+    "MonHocDangKy": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Lập trình CSDL"
+    ]
+  },
+  {
+    "MaSo": "2010456",
+    "HoTenLot": "Trần Thị",
+    "Ten": "Bình",
+    "GioiTinh": false,
+    "NgaySinh": "20/08/2002",
+    "Lop": "CTK44",
+    "SoCMND": "987654321",
+    "SoDT": "0987.654.321",
+    "DiaChi": "12 Trần Phú, Đà Lạt",
+    "MonHocDangKy": [
+      "Đồ án cơ sở",
+      "Phương pháp NCKH"
+    ]
+  },
+  {
+    "MaSo": "2110789",
+    "HoTenLot": "Lê Hoàng",
+    "Ten": "Cường",
+    "GioiTinh": true,
+    "NgaySinh": "10/11/2003",
+    "Lop": "CTK45",
+    "SoCMND": "234567890",
+    "SoDT": "0905.111.222",
+    "DiaChi": "25 Bùi Thị Xuân, Đà Lạt",
+    "MonHocDangKy": [
+      "Lập trình mạng",
+      "Lập trình trên thiết bị di động",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MaSo": "2210101",
+    "HoTenLot": "Phạm Minh",
+    "Ten": "Duy",
+    "GioiTinh": true,
+    "NgaySinh": "03/02/2004",
+    "Lop": "CTK46",
+    "SoCMND": "345678901",
+    "SoDT": "0934.567.890",
+    "DiaChi": "88 Hai Bà Trưng, Đà Lạt",
+    "MonHocDangKy": [
+      "Mạng máy tính",
+      "Lập trình CSDL"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SinhVien>
+    <MaSo>2010123</MaSo>
+    <HoTenLot>Nguyễn Văn</HoTenLot>
+    <Ten>An</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2002-05-15T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>123456789</SoCMND>
+    <SoDT>0912.345.678</SoDT>
+    <DiaChi>01 Phù Đổng Thiên Vương, Đà Lạt</DiaChi>
+    <MonHocDangKy>
+      <Mon>Mạng máy tính</Mon>
+      <Mon>Hệ điều hành</Mon>
+      <Mon>Lập trình CSDL</Mon>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>2010456</MaSo>
+    <HoTenLot>Trần Thị</HoTenLot>
+    <Ten>Bình</Ten>
+    <GioiTinh>false</GioiTinh>
+    <NgaySinh>2002-08-20T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>987654321</SoCMND>
+    <SoDT>0987.654.321</SoDT>
+    <DiaChi>12 Trần Phú, Đà Lạt</DiaChi>
+    <MonHocDangKy>
+      <Mon>Đồ án cơ sở</Mon>
+      <Mon>Phương pháp NCKH</Mon>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>2110789</MaSo>
+    <HoTenLot>Lê Hoàng</HoTenLot>
+    <Ten>Cường</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2003-11-10T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <SoCMND>234567890</SoCMND>
+    <SoDT>0905.111.222</SoDT>
+    <DiaChi>25 Bùi Thị Xuân, Đà Lạt</DiaChi>
+    <MonHocDangKy>
+      <Mon>Lập trình mạng</Mon>
+      <Mon>Lập trình trên thiết bị di động</Mon>
+      <Mon>An toàn và bảo mật hệ thống</Mon>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>2210101</MaSo>
+    <HoTenLot>Phạm Minh</HoTenLot>
+    <Ten>Duy</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2004-02-03T00:00:00</NgaySinh>
+    <Lop>CTK46</Lop>
+    <SoCMND>345678901</SoCMND>
+    <SoDT>0934.567.890</SoDT>
+    <DiaChi>88 Hai Bà Trưng, Đà Lạt</DiaChi>
+    <MonHocDangKy>
+      <Mon>Mạng máy tính</Mon>
+      <Mon>Lập trình CSDL</Mon>
+    </MonHocDangKy>
+  </SinhVien>
+</DanhSachSinhVien>
