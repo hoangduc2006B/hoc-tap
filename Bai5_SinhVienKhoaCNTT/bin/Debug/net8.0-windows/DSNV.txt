@@ -1,0 +1,4 @@
+2111824	Nguyễn Văn An	1	15/05/2003	CTK45	091.234.5678	an.nv@gmail.com	Đà Lạt
+2111825	Trần Thị Mai	0	20/10/2003	CTK45	098.765.4321	mai.tt@gmail.com	Lâm Đồng
+2011500	Lê Hoàng Nam	1	12/03/2002	CTK44	090.111.2222	nam.lh@gmail.com	Hà Nội
+2211900	Phạm Thu Cúc	0	08/09/2004	CTK46	093.333.4444	cuc.pt@gmail.com	TP HCM

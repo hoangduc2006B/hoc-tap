@@ -1,0 +1,16 @@
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\bin\Debug\net8.0-windows\DSNV.txt
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\bin\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.exe
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\bin\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.deps.json
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\bin\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.runtimeconfig.json
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\bin\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.dll
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\bin\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.pdb
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.GeneratedMSBuildEditorConfig.editorconfig
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.AssemblyInfoInputs.cache
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.AssemblyInfo.cs
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.csproj.CoreCompileInputs.cache
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.sourcelink.json
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.dll
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\refint\Bai5_SinhVienKhoaCNTT.dll
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.pdb
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\Bai5_SinhVienKhoaCNTT.genruntimeconfig.cache
+A:\Học tập\Lab2\Bai5_SinhVienKhoaCNTT\obj\Debug\net8.0-windows\ref\Bai5_SinhVienKhoaCNTT.dll

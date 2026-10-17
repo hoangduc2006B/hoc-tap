@@ -1,0 +1,5 @@
+SV.00001|Nguyễn Văn An|15/03/2000|123 Lê Lợi, Đà Lạt|CTK31|SV00001.jpg|Nam|Công nghệ phần mềm
+SV.00002|Trần Thị Bình|20/07/2001|456 Trần Phú, Đà Lạt|CTK32|SV00002.jpg|Nữ|Khoa học máy tính
+SV.00003|Lê Hoàng Cường|10/11/1999|789 Nguyễn Trãi, Đà Lạt|CTK31|SV00003.jpg|Nam|Trí tuệ nhân tạo
+SV.00004|Phạm Thị Dung|25/01/2000|321 Phan Đình Phùng, Đà Lạt|CTK33|SV00004.jpg|Nữ|Hệ thống thông tin
+SV.00005|Hoàng Minh Em|05/09/2001|654 Hai Bà Trưng, Đà Lạt|CTK32CD|SV00005.jpg|Nam|Mạng truyền thông
